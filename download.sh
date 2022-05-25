@@ -1,0 +1,1 @@
+cat files.txt | xargs wget -P "/mnt/f/Simon DL research/raw/"
